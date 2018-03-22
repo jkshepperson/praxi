@@ -6,7 +6,8 @@
 /* Shepp It Custom Styles */
 .home-pic {
     height: auto;
-    width: 40px; 
+    width: 40px;
+    margin-top: .5em; 
 }
 
 .inner p {
@@ -2136,7 +2137,7 @@ ul.alt {
 }
 
 ul.alt li {
-    border-top: solid 1px #fff;
+    border-top: solid 3px #EFEFEF;
     padding: 0.5em 0;
 }
 
@@ -3239,8 +3240,8 @@ button:disabled,
 .wrapper.style5 input[type="button"],
 .wrapper.style5 button,
 .wrapper.style5 .button {
-    box-shadow: inset 0 0 0 2px #dfdfdf;
-    color: #2E3842;
+    box-shadow: inset 0 0 0 2px #3A8BDB;
+    color: #3A8BDB;
 }
 
 .wrapper.style5 input[type="submit"]:hover,
@@ -3248,7 +3249,8 @@ button:disabled,
 .wrapper.style5 input[type="button"]:hover,
 .wrapper.style5 button:hover,
 .wrapper.style5 .button:hover {
-    background-color: rgba(0, 0, 0, 0.0375);
+    background-color: #3A8BDB;
+    color: #FFFFFF;
 }
 
 .wrapper.style5 input[type="submit"]:active,
@@ -3365,7 +3367,7 @@ button:disabled,
 }
 
 #menu .close {
-    background-image: url("images/close.svg");
+    background-image: `("images/close.svg");
     background-position: 4.85em 1em;
     background-repeat: no-repeat;
     border: 0;
@@ -3409,9 +3411,10 @@ body.is-menu-visible #menu {
     -moz-transition: background-color 0.2s ease;
     -webkit-transition: background-color 0.2s ease;
     -ms-transition: background-color 0.2s ease;
-    transition: background-color 0.2s ease;
-    background: #2e3842;
-    height: 3em;
+    transition: border-bottom 0.2s ease;
+    background: #FFFFFF;
+    border-bottom: 2px solid #EFEFEF;
+    height: 3.5em;
     left: 0;
     line-height: 3em;
     position: fixed;
@@ -3516,6 +3519,7 @@ body.is-menu-visible #menu {
 
 #header.alt {
     background: transparent;
+    border-bottom: none;
 }
 
 #header.alt h1 {
@@ -3637,6 +3641,7 @@ body.is-menu-visible #menu {
 }
 
 #banner .more:after {
+    background-image: url(images/arrow.svg);
     background-color: #FFFFFF;
     background-position: center;
     background-repeat: no-repeat;
