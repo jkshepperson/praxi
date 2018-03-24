@@ -1809,12 +1809,35 @@ textarea {
     background: rgba(144, 144, 144, 0.05);
     border-radius: 3px;
     border: 1px solid #4A4A4A;
-    color: #cdcdcd;
+    color: #0F0F0F;
     display: block;
     outline: 0;
     padding: 0 1em;
     text-decoration: none;
     width: 100%;
+}
+
+input[type="text"]::placeholder,
+input[type="password"]::placeholder,
+input[type="email"]::placeholder,
+select::placeholder,
+textarea::placeholder, /* Chrome, Firefox, Opera, Safari 10.1+ */
+input[type="text"]:-ms-input-placeholder,
+input[type="password"]:-ms-input-placeholder,
+input[type="email"]:-ms-input-placeholder,
+select:-ms-input-placeholder,
+textarea:-ms-input-placeholder,/* Internet Explorer 10-11 */
+input[type="text"]::-ms-input-placeholder,
+input[type="password"]::-ms-input-placeholder,
+input[type="email"]::-ms-input-placeholder,
+select::-ms-input-placeholder,
+textarea::-ms-input-placeholder, { /* Microsoft Edge */ 
+    color: #cdcdcd;
+    opacity: 1; /* Firefox */
+}
+
+.uninitialized-select{
+    color: #cdcdcd;
 }
 
 input[type="text"]:invalid,
