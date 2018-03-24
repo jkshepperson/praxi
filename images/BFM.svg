@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0.0 0.0 960.0 720.0"
+   fill="none"
+   stroke="none"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   id="svg74"
+   sodipodi:docname="BFM.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata80">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs78" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1264"
+     inkscape:window-height="692"
+     id="namedview76"
+     showgrid="false"
+     inkscape:zoom="0.46354778"
+     inkscape:cx="390"
+     inkscape:cy="360"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g72" />
+  <clipPath
+     id="p.0">
+    <path
+       d="m0 0l960.0 0l0 720.0l-960.0 0l0 -720.0z"
+       clip-rule="nonzero"
+       id="path2" />
+  </clipPath>
+  <g
+     clip-path="url(#p.0)"
+     id="g72">
+    <path
+       fill="#173a73"
+       d="m153.38058 91.267715l597.0393 0l0 523.5276l-597.0393 0z"
+       fill-rule="evenodd"
+       id="path7"
+       style="fill:#3a8bdb;fill-opacity:1" />
+    <path
+       stroke="#000000"
+       stroke-width="1.0"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       d="m153.38058 91.267715l597.0393 0l0 523.5276l-597.0393 0z"
+       fill-rule="evenodd"
+       id="path9" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m150.84514 617.3228l0 -572.9449"
+       fill-rule="evenodd"
+       id="path11" />
+    <path
+       stroke="#000000"
+       stroke-width="3.0"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       d="m150.84514 617.3228l0 -554.9449"
+       fill-rule="evenodd"
+       id="path13" />
+    <path
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.0"
+       stroke-linecap="butt"
+       d="m155.80034 62.377953l-4.9552 -13.614292l-4.955185 13.614292z"
+       fill-rule="evenodd"
+       id="path15" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m152.11285 614.79004l656.62994 0"
+       fill-rule="evenodd"
+       id="path17" />
+    <path
+       stroke="#000000"
+       stroke-width="3.0"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       d="m152.11285 614.79004l638.62994 0"
+       fill-rule="evenodd"
+       id="path19" />
+    <path
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="3.0"
+       stroke-linecap="butt"
+       d="m790.7428 619.74524l13.614258 -4.9552l-13.614258 -4.9552z"
+       fill-rule="evenodd"
+       id="path21" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m98.845146 409.7638l0 -157.82678l44.377953 0l0 157.82678z"
+       fill-rule="evenodd"
+       id="path23" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m426.979 608.48816l106.897644 0l0 44.37799l-106.897644 0z"
+       fill-rule="evenodd"
+       id="path27" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m159.71916 608.48816l60.850388 0l0 44.37799l-60.850388 0z"
+       fill-rule="evenodd"
+       id="path31" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m678.64044 608.48816l71.77948 0l0 44.37799l-71.77948 0z"
+       fill-rule="evenodd"
+       id="path35" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m103.931755 614.79004l0 -60.850403l44.377953 0l0 60.850403z"
+       fill-rule="evenodd"
+       id="path39" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m98.845146 163.04724l0 -71.779526l44.377953 0l0 71.779526z"
+       fill-rule="evenodd"
+       id="path43" />
+    <defs
+       id="defs52">
+      <radialGradient
+         id="p.1"
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(-19.833771344680166 -5.278870511688205E-4 5.278870511688205E-4 -19.833771344680166 0.0 0.0)"
+         spreadMethod="pad"
+         cx="-22.906328612710105"
+         cy="-17.605587904965642"
+         fx="-22.906328612710105"
+         fy="-17.605587904965642"
+         r="19.833770751953125">
+        <stop
+           offset="0.0"
+           stop-color="#fff6db"
+           id="stop47" />
+        <stop
+           offset="1.0"
+           stop-color="#fad25c"
+           id="stop49" />
+      </radialGradient>
+    </defs>
+    <path
+       d="m750.1521 608.4729l0 0c-326.77863 -0.008728027 -591.68506 -232.172 -591.68506 -518.5512l591.68506 0.01574707z"
+       id="path54"
+       style="fill:#ff008e;fill-opacity:1"
+       fill-rule="evenodd"
+       fill="url(#p.1)" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m750.1521 608.4729l0 0c-326.77863 -0.008728027 -591.68506 -232.172 -591.68506 -518.5512"
+       fill-rule="evenodd"
+       id="path56" />
+    <path
+       stroke="#93c47d"
+       stroke-width="8.0"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       d="m750.1521 608.4729l0 0c-326.77863 -0.008728027 -591.68506 -232.172 -591.68506 -518.5512"
+       fill-rule="evenodd"
+       id="path58"
+       style="stroke:#a5f9db;stroke-opacity:1" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m426.979 251.93701l195.21259 0l0 60.850403l-195.21259 0z"
+       fill-rule="evenodd"
+       id="path60" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m159.71916 480.89502l195.2126 0l0 60.850403l-195.2126 0z"
+       fill-rule="evenodd"
+       id="path66" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="173.8983"
+       y="523.22034"
+       id="text3773"><tspan
+         sodipodi:role="line"
+         id="tspan3771"
+         x="173.8983"
+         y="523.22034">Failed</tspan><tspan
+         sodipodi:role="line"
+         x="173.8983"
+         y="573.22034"
+         id="tspan4605">Triggers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="689.93854"
+       y="219.66103"
+       id="text3798"><tspan
+         sodipodi:role="line"
+         id="tspan3796"
+         x="689.93854"
+         y="219.66103"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold'">Successful</tspan><tspan
+         sodipodi:role="line"
+         x="689.93854"
+         y="286.3277"
+         id="tspan4607"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold'">Triggers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-76.271187"
+       y="576.61017"
+       id="text4611"><tspan
+         sodipodi:role="line"
+         id="tspan4609"
+         x="-76.271187"
+         y="576.61017">Low</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="182.92354"
+       y="536.94916"
+       id="text4615"><tspan
+         sodipodi:role="line"
+         x="182.92354"
+         y="571.59723"
+         id="tspan4617" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-615.9978"
+       y="142.25333"
+       id="text4623"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4621"
+         x="-615.9978"
+         y="142.25333"
+         style="font-size:32px">Low</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="rotate(-90,1.2136893,188.17071)"><flowRegion
+         id="flowRegion4627"><rect
+           id="rect4629"
+           width="108.30508"
+           height="64.06781"
+           x="27.457626"
+           y="289.83051" /></flowRegion><flowPara
+         id="flowPara4631"
+         style="font-size:32px">High</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4633"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Nunito;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Nunito;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4635"><rect
+           id="rect4637"
+           width="170.84746"
+           height="80.84745"
+           x="28.983051"
+           y="303.55933" /></flowRegion><flowPara
+         id="flowPara4639"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-460.24951"
+       y="135.99892"
+       id="text4643"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4641"
+         x="-460.24951"
+         y="135.99892"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold'">Motivation</tspan></text>
+    <text
+       id="text4647"
+       y="645.80981"
+       x="151.09471"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px"
+         y="645.80981"
+         x="151.09471"
+         id="tspan4645"
+         sodipodi:role="line">Low</tspan></text>
+    <flowRoot
+       transform="translate(657.50436,320.77797)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4655"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4651"><rect
+           y="289.83051"
+           x="27.457626"
+           height="64.06781"
+           width="108.30508"
+           id="rect4649" /></flowRegion><flowPara
+         style="font-size:32px"
+         id="flowPara4653">High</flowPara></flowRoot>    <text
+       id="text4659"
+       y="658.98303"
+       x="381.35596"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold'"
+         y="658.98303"
+         x="381.35596"
+         id="tspan4657"
+         sodipodi:role="line">Ability</tspan></text>
+  </g>
+</svg>
