@@ -1,0 +1,161 @@
+<!DOCTYPE HTML>
+<!--
+	Product - Shepp It (2018)
+	Designs, logos and product - Shepp It (2018)
+	Base Design Template - Spectral by HTML5 UP
+-->
+<html>
+
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116370644-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-116370644-1');
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js" integrity="sha256-CfcERD4Ov4+lKbWbYqXD6aFM9M51gN4GUEtDhkWABMo="
+    crossorigin="anonymous"></script>
+  <title>Praxi - Patient Engagement Solutions for Healthcare Organizations</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <link rel="stylesheet" href="assets/css/accordion.css" />
+  <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+  <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+</head>
+
+<body class="landing">
+
+  <!-- Page Wrapper -->
+  <div id="page-wrapper">
+
+    <!-- Header -->
+    <header id="header" class="alt">
+      <h1>
+        <a href="/">
+          <img src="images/praxi-square-logo.png" class="home-pic">
+        </a>
+      </h1>
+      <nav id="nav">
+        <ul>
+          <li class="special">
+            <a href="#menu" class="menuToggle">
+              <span>Menu</span>
+            </a>
+            <div id="menu">
+              <ul>
+                <li>
+                  <a href="/">About Praxi</a>
+                </li>
+                <li>
+                  <a href="tour">Product tour</a>
+                </li>
+                <li>
+                  <a href="contact">Contact us</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Banner -->
+    <section class="wrapper special">
+      <div class="inner">
+        <img src="images/praxi-full-logo.png" alt="Praxi Logo" />
+        <h1 style="font-size:48px; color:#1BBBC4;">Product Tour</h1>
+      </div>
+    </section>
+
+    <!-- One -->
+    <section id="one" class="wrapper style5 special">
+      <div class="inner">
+        <header class="major">
+          <video class="img-responsive" poster="assets/media/snapshot.png" controls>
+            <source src="assets/media/hero.mp4" type="video/mp4">
+                Your browser cannot play the video.
+          </video>
+        </header>
+        <h3>See How Easy Praxi Works</h3>
+        <ul class="accordion">
+          <li>
+            <a>Prep Plans Imported</a>
+            <p>The Praxi team will work with you to import "prep plans" (which represents the information needed for a prep). For example, a procedure with general anesthesia will have notifications when the patient should stop eating and drinking.</p>
+          </li>
+          <li>
+            <a>Patient scheduled</a>
+            <p>Once a patient is scheduled, Praxi will securely receive the appointment time as well as the prep plan to be used.  From there, Praxi takes over!</p>
+          </li>
+          <li>
+            <a>Praxi Communicates</a>
+            <p>Praxi will send messages to the patient to ensure they are staying within the bounds of their prep. If there are any exceptions to their prep, Praxi will notify you so that you can adjust your schedule and/or staffing</p>
+          </li>
+          <li>
+            <a>Procedure Complete</a>
+            <p>Since the patient was well-engaged through praxi during their prep, there's a 20% higher chance that the patient will arrive ready for their procedure.</p>
+          </li>
+        </ul>
+      </div>
+  </div>
+  </section>
+
+
+  <!-- CTA -->
+  <section id="cta" class="wrapper style4">
+    <div class="inner">
+      <header>
+        <h2 style="color:#0F0F0F;">See for yourself</h2>
+        <p style="color:#0F0F0F;">Schedule a demo with our team to see how Praxi can help your hospital, today.</p>
+      </header>
+      <ul class="actions vertical">
+        <li>
+          <a href="#" class="button fit special">Request Demo</a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="footer">
+    <ul class="copyright">
+      <li>&copy; 2018</li>
+      <li>Praxi is a product of
+        <a href="https://shepp.it">Shepp It</a>
+      </li>
+    </ul>
+  </footer>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.scrollex.min.js"></script>
+  <script src="assets/js/jquery.scrolly.min.js"></script>
+  <script src="assets/js/skel.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+  <script src="assets/js/main.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('.accordion > li:eq(0) a').addClass('active').next().slideDown();
+      $('.accordion a').click(function (j) {
+        var dropDown = $(this).closest('li').find('p');
+        $(this).closest('.accordion').find('p').not(dropDown).slideUp();
+        if ($(this).hasClass('active')) {
+          $(this).removeClass('active');
+        } else {
+          $(this).closest('.accordion').find('a.active').removeClass('active');
+          $(this).addClass('active');
+        }
+        dropDown.stop(false, true).slideToggle();
+        j.preventDefault();
+      });
+    });
+  </script>
+
+</body>
+
+</html>
