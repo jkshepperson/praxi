@@ -2660,6 +2660,7 @@ button:disabled,
     display: -webkit-flex;
     display: -ms-flex;
     display: flex;
+    margin-bottom: 2.5em;
 }
 
 .spotlight .image {
@@ -2672,15 +2673,28 @@ button:disabled,
 }
 
 .spotlight .number {
-  text-align: center;
   background-color: #F7F7F7;
   color: #3A8BDB;
   align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100px;
+  padding: 1em;
 }
 
-.spotlight .number span{
-  font-size: 60px;
+.spotlight .number div{
+  font-size: 72px;
+  text-align: center;
+  line-height: 100px
 }
+
+.spotlight .number div .explainer{
+  font-size: 18px;
+  text-align: center;
+  line-height: 40px;
+}
+
 
 .spotlight .image img {
     border-radius: 0;
@@ -2816,8 +2830,13 @@ button:disabled,
 }
 
 .wrapper.style1 {
-    background-color: #21b2a6;
+    background-color: #F7F7F7;
     color: #0F0F0F;
+}
+
+.wrapper.style1.morepad {
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
 }
 
 .wrapper.style1 strong,
