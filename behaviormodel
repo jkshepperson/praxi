@@ -33,7 +33,7 @@
     <!-- Header -->
     <header id="header" class="alt">
       <h1>
-        <a href="index.html">
+        <a href="/">
           <img src="images/praxi-square-logo.png" class="home-pic">
         </a>
       </h1>
@@ -46,16 +46,13 @@
             <div id="menu">
               <ul>
                 <li>
-                  <a href="index.html">About Praxi</a>
+                  <a href="/">About Praxi</a>
                 </li>
                 <li>
-                  <a href="#.html">For Hospitals</a>
+                  <a href="tour">Product tour</a>
                 </li>
                 <li>
-                  <a href="how.html">How it works</a>
-                </li>
-                <li>
-                  <a href="contact.html">Contact us</a>
+                  <a href="contact">Contact us</a>
                 </li>
               </ul>
             </div>
