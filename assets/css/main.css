@@ -1719,6 +1719,7 @@ pre code {
 section.special,
 article.special {
     text-align: center;
+    border-bottom: 4px solid #F7F7F7;
 }
 
 header p {
