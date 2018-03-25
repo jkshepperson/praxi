@@ -7,7 +7,7 @@
 .home-pic {
     height: auto;
     width: 40px;
-    margin-top: .5em; 
+    margin-top: .5em;
 }
 
 .inner p {
@@ -1831,7 +1831,7 @@ input[type="text"]::-ms-input-placeholder,
 input[type="password"]::-ms-input-placeholder,
 input[type="email"]::-ms-input-placeholder,
 select::-ms-input-placeholder,
-textarea::-ms-input-placeholder, { /* Microsoft Edge */ 
+textarea::-ms-input-placeholder, { /* Microsoft Edge */
     color: #cdcdcd;
     opacity: 1; /* Firefox */
 }
@@ -2669,6 +2669,17 @@ button:disabled,
     order: 1;
     border-radius: 0;
     width: 40%;
+}
+
+.spotlight .number {
+  text-align: center;
+  background-color: #F7F7F7;
+  color: #3A8BDB;
+  align-self: stretch;
+}
+
+.spotlight .number span{
+  font-size: 60px;
 }
 
 .spotlight .image img {
