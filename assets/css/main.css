@@ -3132,6 +3132,14 @@ button:disabled,
     }
 }
 
+@media screen and (max-width: 736px) {
+    #onehalf {
+        display:none;
+    }
+}
+
+
+
 .wrapper.style4 {
     background-color: transparent;
 }
@@ -3290,6 +3298,18 @@ button:disabled,
 .wrapper.style5 button:active,
 .wrapper.style5 .button:active {
     background-color: rgba(0, 0, 0, 0.1);
+}
+
+.wrapper.style6 {
+    background-color: #fff;
+}
+
+.wrapper.style6 h2,
+.wrapper.style6 h3,
+.wrapper.style6 h4,
+.wrapper.style6 h5,
+.wrapper.style6 h6 {
+    color: #2E3842;
 }
 
 @media screen and (max-width: 736px) {

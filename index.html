@@ -8,9 +8,10 @@
 
 <head>
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116370644-1"></script>
+	<link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.1/css/tachyons.min.css" />
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
+		function gtag() { dataLayer.push(arguments); }
 		gtag('js', new Date());
 		gtag('config', 'UA-116370644-1');
 	</script>
@@ -82,6 +83,12 @@
 					<p>Praxi keeps patients on track with their prep and on time to their appointment by sending reminders about their exams or procedures, at the right time. By utilizing <a href="/behaviormodel">proven behavioral research</a>, Praxi texts patients during their prep and keeps them informed of what's next.</p>
 				</header>
 			</div>
+		</section>
+
+		<section id="onehalf" class="wrapper style6 special">
+			<h2>See Praxi in Action</h2>
+			<div id="sms-animation-tracker" class="no" style="display: none"></div>
+			<div id="sms-animation-container" class="msg-placeholder"></div>
 		</section>
 
 		<!-- Two -->
@@ -195,7 +202,39 @@
 	<script src="assets/js/util.js"></script>
 	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 	<script src="assets/js/main.js"></script>
+	<script>
+		function isElementInViewport(elem) {
+			var viewportTop = $(window).scrollTop();
+			var viewportBottom = viewportTop + $(window).height()
+			var elemTop = Math.round(elem.offset().top);
+			var elemBottom = elemTop + elem.height();
+			return ((elemTop < viewportBottom) && (elemBottom > viewportTop));
+		}
+		function checkAnimation() {
+			var elem = $('#sms-animation-container');
+			var tracker = $('#sms-animation-tracker');
+			if (isElementInViewport(elem) && tracker.hasClass("no")) {
+				var content = '<div class="msg-container pv4 ph4 br3 center bg-white shadow-6">' +
+					'<div class="msg-content w-100 relative">' +
+					'<div id="msg1" class="msg-receive dib mb4 bg-message br4 pv2 ph3 white measure-ns">Hello! This is Praxi! 👋 You have an appointment tomorrow at 8:00 AM that requires you to stop eating and drinking right now. You\'ve got this!</div>' +
+					'<div id="msg2" class="msg-send dib mb4 bg-near-white br4 pv2 ph3 mid-gray measure-ns">Will do, thank you!</div>' +
+					'<div id="msg3" class="msg-receive dib mb4 bg-message br4 pv2 ph3 white measure-ns">Good Morning! Your appointment is at 8:00AM today. If you have eaten or drank anything since last night, please let us know.</div>' +
+					'<div id="msg4" class="msg-send dib mb4 bg-near-white br4 pv2 ph3 mid-gray measure-ns">I ate a banana this morning. Is that OK?</div>' +
+					'<div id="msg5" class="msg-receive dib mb4 bg-message br4 pv2 ph3 white measure-ns">No worries; We\'ll call you in a second to discuss</div> ' +
+					'<div id="msg6" class="msg-send dib mb4 bg-near-white br4 pv2 ph3 mid-gray measure-ns">Thank you Praxi!</div>' +
+					'</div>' +
+					'</div>'
+				elem.html(content)
+				tracker.addClass("yes")
+				tracker.removeClass("no")
+			}
+		}
+		$(window).scroll(function () {
+			checkAnimation();
+		});
+	</script>
 
 </body>
 
 </html>
+
