@@ -73,7 +73,7 @@
         <p>Fill in the form below and a member of the Praxi team will contact you asap.</p>
         <form method="post" action="https://formspree.io/hello@praxiapp.io">
           <input type="text" name="_gotcha" style="display:none" />
-          <input type="hidden" name="_next" value="https//praxiapp.io/thanks" />
+          <input type="hidden" name="_next" value="https://praxiapp.io/thanks" />
           <div class="row uniform">
             <div class="6u 12u$(xsmall)">
               <input type="text" name="name" placeholder="Name">
