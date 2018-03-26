@@ -16,7 +16,7 @@
   </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js" integrity="sha256-CfcERD4Ov4+lKbWbYqXD6aFM9M51gN4GUEtDhkWABMo="
     crossorigin="anonymous"></script>
-  <title>Praxi - Patient Engagement Solutions for Healthcare Organizations</title>
+  <title>Praxi - Intelligent Patient Engagement for Healthcare</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -72,6 +72,7 @@
     <!-- One -->
     <section id="one" class="wrapper style5 special">
       <div class="inner">
+        <h2>The Praxi Solution</h2>
         <header class="major">
           <div>
             <video style="max-width: 780px; height: 100%; width: 100%; object-fit: contain" class="img-responsive" poster="assets/media/snapshot.png" controls>
@@ -82,20 +83,24 @@
         </header>
         <ul class="accordion">
           <li>
-            <a>Import Prep Plans</a>
-            <p>The Praxi team will work with you to import "prep plans" (which represents the information needed for a prep). For example, a procedure with general anesthesia will have notifications when the patient should stop eating and drinking.</p>
+            <a>Set Your Prep</a>
+            <p>The Praxi team will work with you to create your preferred "prep" or pre-procedure requirements patients must follow before their appointment. For example, a procedure that involves the use of general anesthesia will be able to set the timelines for when the patient should stop eating and drinking (begin NPO) for their procedure, according to the guidelines set by your care team.</p>
           </li>
           <li>
             <a>Schedule Patients</a>
-            <p>Once a patient is scheduled, Praxi will securely receive the appointment time as well as the prep plan to be used.  From there, Praxi takes over!</p>
+            <p>Once a patient is scheduled for a given procedure, Praxi will securely receive the appointment time, phone number for the patient and prep plan the patient should follow. Once set, Praxi simply follows the schedule set by your care team during set-up and it's off to the races!</p>
           </li>
           <li>
-            <a>Send Reminders</a>
-            <p>Praxi will send messages to the patient to ensure they are staying within the bounds of their prep. If there are any exceptions to their prep, Praxi will notify you so that you can adjust your schedule and/or staffing</p>
+            <a>Praxi Begins</a>
+            <p>Praxi will notify patients according to the prep plan set by your care team. Praxi will use natural language processing to make our notifications and touchpoint human, empathetic and friendly so we give patients the best chance to succeed. Should patients break their prep, Praxi can share that information to your care team so they are aware far in advance and can adequately adjust their schedule if necessary.</p>
           </li>
           <li>
             <a>Complete Procedures</a>
-            <p>Since the patient was well-engaged through praxi during their prep, there's a 20% higher chance that the patient will arrive ready for their procedure.</p>
+            <p>Since the patient was well-engaged through praxi during their prep, there's a 20% higher chance that the patient will arrive ready for their procedure. After their exam, Praxi can complete the communication by ensuring your patient knows what's next. Reminders about turn-around time for results, helpful contact numbers the patient may find handy or simply a way for the patient to take a quick survey about their experience: Praxi can help close the loop on a successful procedure with your patient.</p>
+          </li>
+          <li>
+            <a>SOS Messages</a>
+            <p>Even the best made plans can go awry. With Praxi, you not only have the option to set your patients pre and post procedure information schedule, but you have another way to communicate urgent information with your patients through one platform. Schedule running 30 minutes behind? Machine down and need to cancel your afternoon appointments? Use Praxi to support your schedulers and send a mass notification to the appropriate patients through the Praxi interface.</p>
           </li>
         </ul>
       </div>
