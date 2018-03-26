@@ -112,7 +112,7 @@
       </header>
       <ul class="actions vertical">
         <li>
-          <a href="#" class="button fit special">Request Demo</a>
+          <a href="/contact" class="button fit special">Request Demo</a>
         </li>
       </ul>
     </div>
