@@ -1,6 +1,7 @@
 .accordion {
-  max-width: 560px;
+  max-width: 780px;
   margin: 0 auto 100px;
+  padding: 0;
   list-style-type: none;
 }
 .accordion li {
@@ -10,6 +11,7 @@
   display: none;
   padding: 10px 25px 30px;
   color: #0F0F0F;
+  font-size: 16px;
 }
 .accordion a {
   width: 100%;
@@ -17,8 +19,7 @@
   cursor: pointer;
   font-weight: 600;
   line-height: 3;
-  font-size: 14px;
-  font-size: 0.875rem;
+  font-size: 24px;
   text-indent: 15px;
   user-select: none;
 }

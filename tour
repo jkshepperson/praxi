@@ -81,22 +81,21 @@
             </video>
           </div>
         </header>
-        <h3>See How Easy Praxi Works</h3>
         <ul class="accordion">
           <li>
-            <a>Prep Plans Imported</a>
+            <a>Import Prep Plans</a>
             <p>The Praxi team will work with you to import "prep plans" (which represents the information needed for a prep). For example, a procedure with general anesthesia will have notifications when the patient should stop eating and drinking.</p>
           </li>
           <li>
-            <a>Patient scheduled</a>
+            <a>Schedule Patients</a>
             <p>Once a patient is scheduled, Praxi will securely receive the appointment time as well as the prep plan to be used.  From there, Praxi takes over!</p>
           </li>
           <li>
-            <a>Praxi Communicates</a>
+            <a>Send Reminders</a>
             <p>Praxi will send messages to the patient to ensure they are staying within the bounds of their prep. If there are any exceptions to their prep, Praxi will notify you so that you can adjust your schedule and/or staffing</p>
           </li>
           <li>
-            <a>Procedure Complete</a>
+            <a>Complete Procedures</a>
             <p>Since the patient was well-engaged through praxi during their prep, there's a 20% higher chance that the patient will arrive ready for their procedure.</p>
           </li>
         </ul>
