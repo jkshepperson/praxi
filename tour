@@ -74,7 +74,7 @@
       <div class="inner">
         <header class="major">
           <div>
-            <video style="max-width: 780px;max-height: 780px;" class="img-responsive" poster="assets/media/snapshot.png" controls>
+            <video style="max-width: 780px; height: 100%; width: 100%; object-fit: contain" class="img-responsive" poster="assets/media/snapshot.png" controls>
               <source src="assets/media/hero.mp4" type="video/mp4">
                   Your browser cannot play the video.
             </video>

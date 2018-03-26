@@ -79,7 +79,7 @@
         </header>
 
         <div style="margin-bottom: 3em;">
-        <img style="max-width: 500px;max-height: 500px;" src="images/BFM.png" alt="Fogg's Behavior Model"/>
+        <img style="max-width: 600px; height: 100%; width: 100%; object-fit: contain" src="images/BFM.png" alt="Fogg's Behavior Model"/>
         </div>
 
         <div style="text-align:left">
