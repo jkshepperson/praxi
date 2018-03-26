@@ -2807,6 +2807,10 @@ button:disabled,
     padding: 6em 0 4em 0;
 }
 
+.wrapper-alt {
+  padding: 1em 0 5em 0;
+}
+
 .wrapper>.inner {
     width: 60em;
     margin: 0 auto;

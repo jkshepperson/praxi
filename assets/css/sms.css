@@ -1,12 +1,12 @@
 :root {
-  --msg-content-height: 32.5em;
+  --msg-content-height: 22em;
   --msg-spacing: 1em;
-  --msg1-height: 6em;  
-  --msg2-height: 6em;  
-  --msg3-height: 6em;  
-  --msg4-height: 2.5em;
-  --msg5-height: 2.5em;
-  --msg6-height: 2.5em;
+  --msg1-height: 5em;
+  --msg2-height: 1.75em;
+  --msg3-height: 5em;
+  --msg4-height: 1.75em;
+  --msg5-height: 1.75em;
+  --msg6-height: 1.75em;
 }
 
 .msg-placeholder {
