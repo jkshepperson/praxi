@@ -65,7 +65,6 @@
     <!-- Banner -->
     <section class="wrapper special">
       <div class="inner">
-        <img src="images/praxi-full-logo.png" alt="Praxi Logo" />
         <h1 style="font-size:48px; color:#1BBBC4;">Product Tour</h1>
       </div>
     </section>
@@ -75,7 +74,7 @@
       <div class="inner">
         <header class="major">
           <div>
-            <video style="max-width: 500px;max-height: 500px;" class="img-responsive" poster="assets/media/snapshot.png" controls>
+            <video style="max-width: 780px;max-height: 780px;" class="img-responsive" poster="assets/media/snapshot.png" controls>
               <source src="assets/media/hero.mp4" type="video/mp4">
                   Your browser cannot play the video.
             </video>
