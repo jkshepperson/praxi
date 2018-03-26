@@ -74,10 +74,12 @@
     <section id="one" class="wrapper style5 special">
       <div class="inner">
         <header class="major">
-          <video class="img-responsive" poster="assets/media/snapshot.png" controls>
-            <source src="assets/media/hero.mp4" type="video/mp4">
-                Your browser cannot play the video.
-          </video>
+          <div>
+            <video style="max-width: 500px;max-height: 500px;" class="img-responsive" poster="assets/media/snapshot.png" controls>
+              <source src="assets/media/hero.mp4" type="video/mp4">
+                  Your browser cannot play the video.
+            </video>
+          </div>
         </header>
         <h3>See How Easy Praxi Works</h3>
         <ul class="accordion">
