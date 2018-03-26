@@ -2661,7 +2661,6 @@ button:disabled,
     display: -webkit-flex;
     display: -ms-flex;
     display: flex;
-    margin-bottom: 2.5em;
 }
 
 .spotlight .image {
@@ -2674,14 +2673,14 @@ button:disabled,
 }
 
 .spotlight .number {
-  background-color: #F7F7F7;
-  color: #3A8BDB;
+  background-color: #FFFFFF;
+  color: #21b2a6;
   align-self: stretch;
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100px;
-  padding: 1em;
+  padding: 1.5em;
 }
 
 .spotlight .number div{
@@ -2712,6 +2711,10 @@ button:disabled,
     width: 60%;
 }
 
+.stat {
+    color: #FFFFFF;
+}
+
 .spotlight:nth-child(2n) {
     -moz-flex-direction: row-reverse;
     -webkit-flex-direction: row-reverse;
@@ -2720,43 +2723,53 @@ button:disabled,
 }
 
 .spotlight:nth-child(1) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 .spotlight:nth-child(2) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 .spotlight:nth-child(3) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 .spotlight:nth-child(4) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 .spotlight:nth-child(5) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 .spotlight:nth-child(6) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 .spotlight:nth-child(7) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 .spotlight:nth-child(8) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 .spotlight:nth-child(9) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 .spotlight:nth-child(10) {
-    background-color: #A5F9DB;
+    background-color: rgba(0, 183, 168, 1.0);
+    border: 10px solid #FFFFFF;
 }
 
 @media screen and (max-width: 1280px) {
@@ -2837,11 +2850,6 @@ button:disabled,
 .wrapper.style1 {
     background-color: #F7F7F7;
     color: #0F0F0F;
-}
-
-.wrapper.style1.morepad {
-  padding-top: 2.5em;
-  padding-bottom: 2.5em;
 }
 
 .wrapper.style1 strong,
