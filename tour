@@ -16,7 +16,12 @@
   </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js" integrity="sha256-CfcERD4Ov4+lKbWbYqXD6aFM9M51gN4GUEtDhkWABMo="
     crossorigin="anonymous"></script>
-  <title>Praxi - Intelligent Patient Engagement for Healthcare</title>
+  <title>Praxi - Intelligent Patient Engagement</title>
+  <meta property=”og:title” content=”Praxi: Intelligent Patient Engagement”/>
+  <meta property=”og:type” content=”product”/>
+  <meta property=”og:description” content=”Prepping patients for what's next in their healthcare journey.“/>
+  <meta property=”og:image” content=”/images/praxi-square-logo.png”/>
+  <meta property=”og:url” content=”https://praxiapp.io”/>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
