@@ -71,10 +71,6 @@
       </div>
     </section>
 
-    <div class="phocale">
-      <img src="https://staging-i.phocale.io/i/c5eec4e5-70bb-4451-bb98-cffdc5619d46" alt="My Phocale Image" height="50%" width="50%" />
-    </div>
-
     <!-- Contact Form -->
     <section class="wrapper">
       <div class="inner">
