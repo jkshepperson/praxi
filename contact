@@ -14,7 +14,12 @@
     gtag('js', new Date());
     gtag('config', 'UA-116370644-1');
   </script>
-  <title>Praxi - Intelligent Patient Engagement for Healthcare</title>
+  <title>Praxi - Intelligent Patient Engagement</title>
+  <meta property=”og:title” content=”Praxi: Intelligent Patient Engagement”/>
+  <meta property=”og:type” content=”product”/>
+  <meta property=”og:description” content=”Prepping patients for what's next in their healthcare journey.“/>
+  <meta property=”og:image” content=”/images/praxi-square-logo.png”/>
+  <meta property=”og:url” content=”https://praxiapp.io”/>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->

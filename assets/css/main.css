@@ -18,6 +18,18 @@
     color: #cdcdcd;
 }
 
+.footerFlex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footerBox {
+    flex-direction: row;
+
+
+}
+
 /* Reset */
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr,
@@ -3953,7 +3965,7 @@ body.is-mobile #main>header {
 #footer {
     padding: 6em 0 4em 0;
     background-color: #1d242a;
-    text-align: center;
+    
 }
 
 #footer .icons {
